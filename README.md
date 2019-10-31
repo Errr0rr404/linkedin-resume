@@ -12,9 +12,8 @@
 
 ---
 
-Zan is ....
-
-To D0 .... Description
+Zan is a Software Engineer who is specialized in different areas of Software Testing. He has created different testing framework for different companies over the period of 8 years of industry experience. He is expert on testing UI (Web,Mobile), API, Database using different set of tools. 
+Beside work, he loves to keep himself up to dated with newer tools and technologies, playing guitar & soccer, going on fishing.
 
 Email: zan.sheum@gmail.com
 
@@ -22,7 +21,7 @@ Email: zan.sheum@gmail.com
 
 ## Latest Projects 
 
-- [**to_do**](https://todo), description - to do.
+- [**World Of Automation**](https://github.com/Errr0rr404/world-of-automation) - In Progress .
 
 <br/>
 
@@ -64,13 +63,13 @@ Email: zan.sheum@gmail.com
 --- 
 <br/>
 
-## Stack
+## Stacks
 
-### Programming
+### Programming Languages
 - Java, JavaScript, SQL, PL/SQL, HTML, CSS, XML, JSON
 
 ### Cloud Services
-- Sauce Labs, Browser Stack, Experitest
+- Sauce Labs, Browser Stack, Experitest, AWS
 
 ### Testing Tools
 - Selenium WebDriver, Selenium Grid, Appium, Cucumber, Rest Assured, JMeter, AppliTools
@@ -98,8 +97,5 @@ Email: zan.sheum@gmail.com
 
 ### Others
 - Postman, Charles, Docker, Putty, Curl, Elasticsearch, GraphQL
-
-### Languages
-- English and Bengali.
 
 <br/>
