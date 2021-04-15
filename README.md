@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zannatun-sheum/"><img src="https://img.shields.io/badge/Linkedin-500%2B-yellowgreen" alt="Linkedin"></a>
-  <a href="mailto:zan.sheum@gmail.com"><img src="https://img.shields.io/badge/Email-zan.sheum%40gmail.com-blue" alt="Email"></a>
+  <a href="mailto:zannatun.sheum@gmail.com"><img src="https://img.shields.io/badge/Email-zannatun.sheum%40gmail.com-blue" alt="Email"></a>
   <a href="https://github.com/Errr0rr404"><img src="https://img.shields.io/badge/GitHub-Errr0rr404-red" alt="GitHub"></a>
   <a href="https://goo.gl/maps/fqzXL5nKM5n1AGhX7"><img src="https://img.shields.io/badge/Location-Manhattan-green" alt="Manhattan"></a>
   <a href="https://stackoverflow.com/users/9985817/zann"><img src="https://img.shields.io/badge/Stack%20Overflow-Zann-yellow" alt="Zann"></a>
@@ -13,15 +13,15 @@
 ---
 
 Zan is a Software Engineer who is specialized in different areas of Software Testing. He has created different testing framework for different companies over the period of 8 years of industry experience. He is expert on testing UI (Web,Mobile), API, Database using different set of tools. 
-Beside work, he loves to keep himself up to dated with newer tools and technologies, playing guitar & soccer, going on fishing.
+Beside work, he loves to keep himself up to dated with newer tools and technologies, playing guitar & soccer. and did i forget he loves fishing?
 
-Email: zan.sheum@gmail.com
+Email: zannatun.sheum@gmail.com
 
 <br/>
 
 ## Latest Projects 
 
-- [**World Of Automation**](https://github.com/Errr0rr404/world-of-automation) - In Progress .
+- [**World Of Automation**](https://github.com/Errr0rr404/world-of-automation).
 
 <br/>
 
@@ -38,26 +38,26 @@ Email: zan.sheum@gmail.com
 --- 
 
 #### Senior QA Automation Engineer & Team Lead, [Jefferies](https://www.jefferies.com/)
-##### January 2019 - May 2019 | Manhattan, New York
+##### May 2018 - May 2019 | Manhattan, New York
 
 --- 
 
-#### QA Automation Engineer, [TD](https://www.td.com/)
-##### July 2018 - January 2019 | Mount Laurel, New Jersey
+#### Software Engineer in Test - Mobile , [TD](https://www.td.com/)
+##### Feb 2017 - April 2018 | Mount Laurel, New Jersey
 
 --- 
 
 #### Senior QA Automation Engineer, [Wells Fargo](https://www.wellsfargo.com/)
-##### January 2016 - June 2018 | Richmond, Virginia
+##### January 2015 - January 2017 | Richmond, Virginia
 
 --- 
 
-#### QA Automation Engineer, [DirecTV](https://www.direcvt.com/)
-##### March 2013 - December 2015 | Manhattan, New York
+#### QA Engineer, [DirecTV](https://www.direcvt.com/)
+##### February 2013 - December 2014 | Manhattan, New York
 
 --- 
 
-#### QA Automation Engineer, [Blue Cross Blue Shield](https://www.bcbs.com/)
+#### QA Engineer, [Blue Cross Blue Shield](https://www.bcbs.com/)
 ##### January 2012 - January 2013 | Jacksonville, Florida
 
 --- 
@@ -75,7 +75,7 @@ Email: zan.sheum@gmail.com
 - Selenium WebDriver, Selenium Grid, Appium, Cucumber, Rest Assured, JMeter, AppliTools
 
 ### Defect Management Tools
-- JIRA, HP ALM/QC
+- Xray, Zephyr, QTest, HP ALM/QC
 
 ### Frameworks (Open Source)
 - JUnit, TestNG, Serenity BDD
@@ -96,6 +96,6 @@ Email: zan.sheum@gmail.com
 - Jenkins, Bamboo
 
 ### Others
-- Postman, Charles, Docker, Putty, Curl, Elasticsearch, GraphQL
+- Postman, Charles, Docker, Putty, Curl, Elasticsearch, GraphQL, Kubernetes, Splunk, RabbitMQ
 
 <br/>
